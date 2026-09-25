@@ -1,3 +1,1 @@
-# Привет! Я разработчик 👋
-
-![GitHub Verified Badge](https://shields.io)
+![GitHub Verified](https://shields.io)
